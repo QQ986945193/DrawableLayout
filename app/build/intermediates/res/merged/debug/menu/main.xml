@@ -1,0 +1,13 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+      xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_personal"
+        android:icon="@mipmap/action_personal"
+        android:orderInCategory="100"
+
+        android:title="@string/action_personal"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource"/>
+
+</menu><!-- From: file:/E:/studioworkspace/ProjectDemo/app/src/main/res/menu/main.xml -->
